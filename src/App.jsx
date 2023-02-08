@@ -38,9 +38,8 @@ function App() {
         </div>
       </section>
       <section>
-        <img src="./image.jpg"/>
+        <img src="../src/image.jpg"/>
         {/* <h1>SOME PHOTO</h1> */}
-        <p id="demo">S</p>
       </section>
       {/* <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>

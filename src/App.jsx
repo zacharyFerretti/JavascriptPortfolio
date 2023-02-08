@@ -38,7 +38,7 @@ function App() {
         </div>
       </section>
       <section>
-        <img src="../image.jpg"/>
+        <img src="./image.jpg"/>
         {/* <h1>SOME PHOTO</h1> */}
         <p id="demo">S</p>
       </section>
